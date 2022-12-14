@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-    background-image: url(bgimage_optimized.jpg");
+    background-image: url("bgimage_optimized.jpg");
     background-size: cover; background-color: antiquewhite;
     font-family: Arial;
     background-image: url("PJLogoOptimized.png");
